@@ -1,0 +1,4 @@
+export const GET_CHARACTER = 'GET_CHARACTER';
+export const ADD_CHARACTER = 'ADD_CHARACTER';
+export const DELETE_CHARACTER = 'DELETE_CHARACTER';
+export const SET_TERM = 'SET_TERM';
